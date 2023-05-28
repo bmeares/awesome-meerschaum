@@ -11,7 +11,7 @@ A curated list of awesome Meerschaum plugins, projects, and connectors.
 
 ## Data Plugins
 
-- [`apex`[(https://github.com/bmeares/apex)  
+- [`apex`](https://github.com/bmeares/apex)  
   Ingest financial transcations from Apex Clearing.
   
 - [`noaa`](https://github.com/bmeares/noaa)  
