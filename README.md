@@ -13,6 +13,9 @@ A curated list of awesome Meerschaum plugins, projects, and connectors.
 
 - [`apex`](https://github.com/bmeares/apex)  
   Ingest financial transcations from Apex Clearing.
+
+- [`clone`](https://github.com/bmeares/clone)
+  Consolidate multiple pipes across instances into a single table.
   
 - [`noaa`](https://github.com/bmeares/noaa)  
   Sync NOAA / NWS weather station data.
