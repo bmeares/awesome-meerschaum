@@ -29,3 +29,8 @@ A curated list of awesome Meerschaum plugins, projects, and connectors.
 
 - [`mongodb-connector`](https://github.com/bmeares/mongodb-connector)  
   Sync to and from MongoDB.
+
+## Projects
+
+- [`bikewalkgreenville`](https://github.com/bmeares/bikewalkgreenville)
+  Bike Walk Greenville uses Meerschaum for their GIS data analysis
